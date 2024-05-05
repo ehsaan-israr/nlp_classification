@@ -105,7 +105,7 @@ class TweetSentimentBasicModel:
 
 
 obj = TweetSentimentBasicModel()
-# obj.train()
+# obj.train_using_frequency()
 # print(obj.predict_tweet('I am sad because i am not learning NLP'))
 # print(obj.predict_tweet('I am happy because i am not learning NLP'))
 # print(obj.predict_tweet('It\'s great'))
